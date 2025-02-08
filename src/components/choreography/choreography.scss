@@ -1,0 +1,51 @@
+.choreography {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+  width: 40%;
+  padding-left: 100px;
+}
+.chText {
+  color: white;
+}
+.chTitle {
+  font-size: 40px;
+}
+/* Styles for the 'Join Now' button */
+.join-now-button {
+  display: inline-block;
+  padding: 12px 28px;
+  font-size: 16px;
+  font-weight: bold;
+  color: #ffffff;
+  background: linear-gradient(90deg, #2eebef, #17a578);
+  border: 2px solid #ffffff;
+  border-radius: 50px;
+  text-transform: uppercase;
+  text-align: center;
+  cursor: pointer;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 3px 10px rgba(119, 238, 198, 0.4);
+  transition: all 0.4s ease;
+}
+
+.join-now-button:hover {
+  background: linear-gradient(90deg, #17a592, #2eefcf);
+  box-shadow: 0 3px 10px rgba(131, 255, 245, 0.4);
+  transform: scale(1.1);
+}
+
+.join-now-button:active {
+  transform: scale(0.95);
+  box-shadow: 0 3px 10px rgba(112, 191, 166, 0.4);
+}
+.fitnessPic{
+  height: 450px;
+  padding-left: 150px;
+ 
+}
+.bigFitness{
+  display:flex;
+  align-items:center;
+}

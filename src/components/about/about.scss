@@ -1,0 +1,39 @@
+.about {
+  margin-top: 80px;
+  padding: 32px 162px;
+  background-color: #262626;
+  display: flex;
+  justify-content: space-between;
+  .contactItems {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    img {
+      width: 24px;
+    }
+  }
+  .infoContacts {
+    display: flex;
+    gap: 0.5rem;
+  }
+  .aboutTitle,
+  .contactTitle {
+    font-size: 28px;
+    width: 50%;
+  }
+  .aboutInfo {
+  }
+  .aboutDiv {
+    width: 50%;
+    text-align: left;
+  }
+  .infoAndQr {
+    display: flex;
+    gap: 4rem;
+    align-items: center;
+  }
+  .qr {
+    width: 166px;
+    height: 166px;
+  }
+}

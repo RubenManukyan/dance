@@ -1,0 +1,18 @@
+.homeTextAndImage {
+    display: flex;
+    align-items: center;
+    gap: 180px;
+    justify-content: flex-end;
+    .homeText {
+      font-size: 52px;
+      width: 400px;
+      text-align: left;
+      font-weight: bold;
+      .danceBlue {
+        background: linear-gradient(to left, #55bb99, #1144cc);
+        -webkit-background-clip: text;
+        background-clip: text;
+        color: transparent;
+      }
+    }
+  }

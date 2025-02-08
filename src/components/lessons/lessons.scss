@@ -1,0 +1,28 @@
+.lessonsDance {
+  font-size: 18px;
+  background-color: #262626;
+  height: 197px;
+  width: 350px;
+  text-align: left;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  background-size: cover;
+  .lessonRate {
+    align-self: flex-end;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .fourPlaylist{
+    align-self: flex-end;
+  }
+  .balletDance {
+    width: 100%;
+    font-size: 28px;
+    align-self: flex-start;
+  }
+}
