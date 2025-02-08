@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/dance/static/css/main.fe639de7.css",
+    "main.js": "/dance/static/js/main.99962249.js",
+    "static/js/453.f9428c53.chunk.js": "/dance/static/js/453.f9428c53.chunk.js",
+    "static/media/DALL·E 2025-01-31 19.10.16 - A futuristic fitness scene with people exercising in a high-tech gym. The atmosphere is illuminated with greenish-blue neon lights, reflecting off sle.webp": "/dance/static/media/DALL·E 2025-01-31 19.10.16 - A futuristic fitness scene with people exercising in a high-tech gym. The atmosphere is illuminated with greenish-blue neon lights, reflecting off sle.3a793c53400710f28cce.webp",
+    "static/media/Back.png": "/dance/static/media/Back.b607c7f38c8931560939.png",
+    "static/media/fitness.png": "/dance/static/media/fitness.51df172e6ea65a5cd77d.png",
+    "static/media/Arms.png": "/dance/static/media/Arms.6a979ae5720aaa1a8849.png",
+    "static/media/Legs.png": "/dance/static/media/Legs.1d5f2d10b45620c10e43.png",
+    "static/media/Butt.png": "/dance/static/media/Butt.d4f106d62f1d2f657d50.png",
+    "static/media/Chest.png": "/dance/static/media/Chest.3916607326f2672c8249.png",
+    "static/media/cabs.png": "/dance/static/media/cabs.3a2acf3bc0ef504be166.png",
+    "static/media/dance2.png": "/dance/static/media/dance2.aba20793f92d64fe8955.png",
+    "static/media/dancer.png": "/dance/static/media/dancer.b187159e1d95a963753f.png",
+    "static/media/dance4.png": "/dance/static/media/dance4.ba0abe746a222febf8d6.png",
+    "static/media/dance3.png": "/dance/static/media/dance3.9ea9566e826eaca41742.png",
+    "static/media/dance1.png": "/dance/static/media/dance1.fd794dfa8b63a92fcf24.png",
+    "static/media/ballet.png": "/dance/static/media/ballet.92ad38533c32c6ed9610.png",
+    "index.html": "/dance/index.html",
+    "main.fe639de7.css.map": "/dance/static/css/main.fe639de7.css.map",
+    "main.99962249.js.map": "/dance/static/js/main.99962249.js.map",
+    "453.f9428c53.chunk.js.map": "/dance/static/js/453.f9428c53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe639de7.css",
+    "static/js/main.99962249.js"
+  ]
+}

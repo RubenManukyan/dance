@@ -1,5 +1,5 @@
 import "./choreography.scss";
-import fitnessPic from "../../images/DALL·E 2025-01-31 19.10.16 - A futuristic fitness scene with people exercising in a high-tech gym. The atmosphere is illuminated with greenish-blue neon lights, reflecting off sle.webp"
+import fitnessPic from "../../images/dall-e.webp";
 
 const Choreography = () => {
   return (
